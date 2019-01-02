@@ -1,0 +1,24 @@
+test_add (test_math.TestMathFunc)
+Test method add(a, b) ... ok
+test_minus (test_math.TestMathFunc)
+Test method minus(a, b) ... skipped 'i don`t want to test this one'
+test_divide (test_math.TestMathFunc)
+Test method divide(a, b) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK (skipped=1)
+test_add (test_math.TestMathFunc)
+Test method add(a, b) ... ok
+test_minus (test_math.TestMathFunc)
+Test method minus(a, b) ... skipped 'i don`t want to test this one'
+test_divide (test_math.TestMathFunc)
+Test method divide(a, b) ... ok
+test_multi (test_math.TestMathFunc)
+Test method multi(a, b) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
